@@ -1,0 +1,10 @@
+# Data files
+*.csv
+*.xlsx
+
+# Python specific
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
